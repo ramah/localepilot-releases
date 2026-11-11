@@ -1,1 +1,1 @@
-Releases de LocalePcd ..ilot (privé).
+Releases de LocalePilot.
